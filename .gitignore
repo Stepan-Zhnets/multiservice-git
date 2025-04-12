@@ -1,0 +1,8 @@
+# PROJECT
+
+# VSC
+
+# UV
+uv.lock
+.venv
+.ruff_cache
