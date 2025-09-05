@@ -1,9 +1,5 @@
-import flet as ft
-
-def main(page:ft.Page):
-    page.title = "multiservice-git"
-    page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
-
+def main():
+   ...
 
 if __name__ == "__main__":
-    ft.app(target=main)
+    main()
